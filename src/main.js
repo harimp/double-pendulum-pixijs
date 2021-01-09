@@ -32,14 +32,14 @@ const centerPoint = {
 const color1 = 0xDE3249;
 const m1 = 15;
 const l1 = 120;
-let a1 = Math.PI;
+let a1 = Math.PI / 2;
 let a1_v = 0;
 let a1_a = 0;
 
 const color2 = 0x35CC5A;
 const m2 = 15;
 const l2 = 120;
-let a2 = Math.PI + 0.0001;
+let a2 = Math.PI / 2;
 let a2_v = 0;
 let a2_a = 0;
 
